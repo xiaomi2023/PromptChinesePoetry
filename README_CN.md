@@ -2,7 +2,7 @@
 
 # PromptChinesePoetry
 
-<p align="center">
+<p>
 <a href="README.md">English</a> |
 中文
 </p>
