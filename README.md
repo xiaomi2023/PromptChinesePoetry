@@ -108,7 +108,7 @@ The language composition of the user prompts in both files:
 ## Synthesis
 
 Poems and ci covering multiple sources and types were first scraped from [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) and cleaned,
-then diverse user prompts were synthesized with an LLM based on each poem, covering form, subject, prosody, mood, scene, etc.  
+then diverse and multilingual user prompts were synthesized with an LLM based on each poem, covering form, subject, prosody, mood, scene, etc.  
 Only poems with fewer than 1,000 Google search results were used, to avoid training a model on poems that already exist in its knowledge base.
 
 ## Usage
